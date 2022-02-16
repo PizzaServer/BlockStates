@@ -1,0 +1,7 @@
+{
+  "prismarine_block_type": "default"
+}{
+  "prismarine_block_type": "dark"
+}{
+  "prismarine_block_type": "bricks"
+}

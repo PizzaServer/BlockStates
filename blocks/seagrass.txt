@@ -1,0 +1,7 @@
+{
+  "sea_grass_type": "default"
+}{
+  "sea_grass_type": "double_top"
+}{
+  "sea_grass_type": "double_bot"
+}

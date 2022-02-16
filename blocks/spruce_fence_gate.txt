@@ -1,0 +1,65 @@
+{
+  "direction": 0i,
+  "in_wall_bit": 0b,
+  "open_bit": 0b
+}{
+  "direction": 1i,
+  "in_wall_bit": 0b,
+  "open_bit": 0b
+}{
+  "direction": 2i,
+  "in_wall_bit": 0b,
+  "open_bit": 0b
+}{
+  "direction": 3i,
+  "in_wall_bit": 0b,
+  "open_bit": 0b
+}{
+  "direction": 0i,
+  "in_wall_bit": 0b,
+  "open_bit": 1b
+}{
+  "direction": 1i,
+  "in_wall_bit": 0b,
+  "open_bit": 1b
+}{
+  "direction": 2i,
+  "in_wall_bit": 0b,
+  "open_bit": 1b
+}{
+  "direction": 3i,
+  "in_wall_bit": 0b,
+  "open_bit": 1b
+}{
+  "direction": 0i,
+  "in_wall_bit": 1b,
+  "open_bit": 0b
+}{
+  "direction": 1i,
+  "in_wall_bit": 1b,
+  "open_bit": 0b
+}{
+  "direction": 2i,
+  "in_wall_bit": 1b,
+  "open_bit": 0b
+}{
+  "direction": 3i,
+  "in_wall_bit": 1b,
+  "open_bit": 0b
+}{
+  "direction": 0i,
+  "in_wall_bit": 1b,
+  "open_bit": 1b
+}{
+  "direction": 1i,
+  "in_wall_bit": 1b,
+  "open_bit": 1b
+}{
+  "direction": 2i,
+  "in_wall_bit": 1b,
+  "open_bit": 1b
+}{
+  "direction": 3i,
+  "in_wall_bit": 1b,
+  "open_bit": 1b
+}

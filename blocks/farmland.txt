@@ -1,0 +1,17 @@
+{
+  "moisturized_amount": 0i
+}{
+  "moisturized_amount": 1i
+}{
+  "moisturized_amount": 2i
+}{
+  "moisturized_amount": 3i
+}{
+  "moisturized_amount": 4i
+}{
+  "moisturized_amount": 5i
+}{
+  "moisturized_amount": 6i
+}{
+  "moisturized_amount": 7i
+}

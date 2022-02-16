@@ -1,0 +1,21 @@
+{
+  "rail_direction": 0i
+}{
+  "rail_direction": 1i
+}{
+  "rail_direction": 2i
+}{
+  "rail_direction": 3i
+}{
+  "rail_direction": 4i
+}{
+  "rail_direction": 5i
+}{
+  "rail_direction": 6i
+}{
+  "rail_direction": 7i
+}{
+  "rail_direction": 8i
+}{
+  "rail_direction": 9i
+}

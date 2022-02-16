@@ -1,0 +1,17 @@
+{
+  "growth": 0i
+}{
+  "growth": 1i
+}{
+  "growth": 2i
+}{
+  "growth": 3i
+}{
+  "growth": 4i
+}{
+  "growth": 5i
+}{
+  "growth": 6i
+}{
+  "growth": 7i
+}

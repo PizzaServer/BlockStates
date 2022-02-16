@@ -1,0 +1,129 @@
+{
+  "multi_face_direction_bits": 0i
+}{
+  "multi_face_direction_bits": 1i
+}{
+  "multi_face_direction_bits": 2i
+}{
+  "multi_face_direction_bits": 3i
+}{
+  "multi_face_direction_bits": 4i
+}{
+  "multi_face_direction_bits": 5i
+}{
+  "multi_face_direction_bits": 6i
+}{
+  "multi_face_direction_bits": 7i
+}{
+  "multi_face_direction_bits": 8i
+}{
+  "multi_face_direction_bits": 9i
+}{
+  "multi_face_direction_bits": 10i
+}{
+  "multi_face_direction_bits": 11i
+}{
+  "multi_face_direction_bits": 12i
+}{
+  "multi_face_direction_bits": 13i
+}{
+  "multi_face_direction_bits": 14i
+}{
+  "multi_face_direction_bits": 15i
+}{
+  "multi_face_direction_bits": 16i
+}{
+  "multi_face_direction_bits": 17i
+}{
+  "multi_face_direction_bits": 18i
+}{
+  "multi_face_direction_bits": 19i
+}{
+  "multi_face_direction_bits": 20i
+}{
+  "multi_face_direction_bits": 21i
+}{
+  "multi_face_direction_bits": 22i
+}{
+  "multi_face_direction_bits": 23i
+}{
+  "multi_face_direction_bits": 24i
+}{
+  "multi_face_direction_bits": 25i
+}{
+  "multi_face_direction_bits": 26i
+}{
+  "multi_face_direction_bits": 27i
+}{
+  "multi_face_direction_bits": 28i
+}{
+  "multi_face_direction_bits": 29i
+}{
+  "multi_face_direction_bits": 30i
+}{
+  "multi_face_direction_bits": 31i
+}{
+  "multi_face_direction_bits": 32i
+}{
+  "multi_face_direction_bits": 33i
+}{
+  "multi_face_direction_bits": 34i
+}{
+  "multi_face_direction_bits": 35i
+}{
+  "multi_face_direction_bits": 36i
+}{
+  "multi_face_direction_bits": 37i
+}{
+  "multi_face_direction_bits": 38i
+}{
+  "multi_face_direction_bits": 39i
+}{
+  "multi_face_direction_bits": 40i
+}{
+  "multi_face_direction_bits": 41i
+}{
+  "multi_face_direction_bits": 42i
+}{
+  "multi_face_direction_bits": 43i
+}{
+  "multi_face_direction_bits": 44i
+}{
+  "multi_face_direction_bits": 45i
+}{
+  "multi_face_direction_bits": 46i
+}{
+  "multi_face_direction_bits": 47i
+}{
+  "multi_face_direction_bits": 48i
+}{
+  "multi_face_direction_bits": 49i
+}{
+  "multi_face_direction_bits": 50i
+}{
+  "multi_face_direction_bits": 51i
+}{
+  "multi_face_direction_bits": 52i
+}{
+  "multi_face_direction_bits": 53i
+}{
+  "multi_face_direction_bits": 54i
+}{
+  "multi_face_direction_bits": 55i
+}{
+  "multi_face_direction_bits": 56i
+}{
+  "multi_face_direction_bits": 57i
+}{
+  "multi_face_direction_bits": 58i
+}{
+  "multi_face_direction_bits": 59i
+}{
+  "multi_face_direction_bits": 60i
+}{
+  "multi_face_direction_bits": 61i
+}{
+  "multi_face_direction_bits": 62i
+}{
+  "multi_face_direction_bits": 63i
+}

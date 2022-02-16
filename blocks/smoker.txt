@@ -1,0 +1,13 @@
+{
+  "facing_direction": 0i
+}{
+  "facing_direction": 1i
+}{
+  "facing_direction": 2i
+}{
+  "facing_direction": 3i
+}{
+  "facing_direction": 4i
+}{
+  "facing_direction": 5i
+}

@@ -1,0 +1,31 @@
+{
+  "dripstone_thickness": "tip",
+  "hanging": 0b
+}{
+  "dripstone_thickness": "frustum",
+  "hanging": 0b
+}{
+  "dripstone_thickness": "middle",
+  "hanging": 0b
+}{
+  "dripstone_thickness": "base",
+  "hanging": 0b
+}{
+  "dripstone_thickness": "merge",
+  "hanging": 0b
+}{
+  "dripstone_thickness": "tip",
+  "hanging": 1b
+}{
+  "dripstone_thickness": "frustum",
+  "hanging": 1b
+}{
+  "dripstone_thickness": "middle",
+  "hanging": 1b
+}{
+  "dripstone_thickness": "base",
+  "hanging": 1b
+}{
+  "dripstone_thickness": "merge",
+  "hanging": 1b
+}

@@ -1,0 +1,25 @@
+{
+  "upside_down_bit": 0b,
+  "weirdo_direction": 0i
+}{
+  "upside_down_bit": 0b,
+  "weirdo_direction": 1i
+}{
+  "upside_down_bit": 0b,
+  "weirdo_direction": 2i
+}{
+  "upside_down_bit": 0b,
+  "weirdo_direction": 3i
+}{
+  "upside_down_bit": 1b,
+  "weirdo_direction": 0i
+}{
+  "upside_down_bit": 1b,
+  "weirdo_direction": 1i
+}{
+  "upside_down_bit": 1b,
+  "weirdo_direction": 2i
+}{
+  "upside_down_bit": 1b,
+  "weirdo_direction": 3i
+}

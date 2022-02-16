@@ -1,0 +1,49 @@
+{
+  "lever_direction": "down_east_west",
+  "open_bit": 0b
+}{
+  "lever_direction": "east",
+  "open_bit": 0b
+}{
+  "lever_direction": "west",
+  "open_bit": 0b
+}{
+  "lever_direction": "south",
+  "open_bit": 0b
+}{
+  "lever_direction": "north",
+  "open_bit": 0b
+}{
+  "lever_direction": "up_north_south",
+  "open_bit": 0b
+}{
+  "lever_direction": "up_east_west",
+  "open_bit": 0b
+}{
+  "lever_direction": "down_north_south",
+  "open_bit": 0b
+}{
+  "lever_direction": "down_east_west",
+  "open_bit": 1b
+}{
+  "lever_direction": "east",
+  "open_bit": 1b
+}{
+  "lever_direction": "west",
+  "open_bit": 1b
+}{
+  "lever_direction": "south",
+  "open_bit": 1b
+}{
+  "lever_direction": "north",
+  "open_bit": 1b
+}{
+  "lever_direction": "up_north_south",
+  "open_bit": 1b
+}{
+  "lever_direction": "up_east_west",
+  "open_bit": 1b
+}{
+  "lever_direction": "down_north_south",
+  "open_bit": 1b
+}

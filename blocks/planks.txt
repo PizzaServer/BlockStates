@@ -1,0 +1,13 @@
+{
+  "wood_type": "oak"
+}{
+  "wood_type": "spruce"
+}{
+  "wood_type": "birch"
+}{
+  "wood_type": "jungle"
+}{
+  "wood_type": "acacia"
+}{
+  "wood_type": "dark_oak"
+}

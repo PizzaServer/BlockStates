@@ -1,0 +1,23 @@
+{
+  "flower_type": "poppy"
+}{
+  "flower_type": "orchid"
+}{
+  "flower_type": "allium"
+}{
+  "flower_type": "houstonia"
+}{
+  "flower_type": "tulip_red"
+}{
+  "flower_type": "tulip_orange"
+}{
+  "flower_type": "tulip_white"
+}{
+  "flower_type": "tulip_pink"
+}{
+  "flower_type": "oxeye"
+}{
+  "flower_type": "cornflower"
+}{
+  "flower_type": "lily_of_the_valley"
+}

@@ -1,0 +1,65 @@
+{
+  "coral_direction": 0i,
+  "coral_hang_type_bit": 0b,
+  "dead_bit": 0b
+}{
+  "coral_direction": 0i,
+  "coral_hang_type_bit": 1b,
+  "dead_bit": 0b
+}{
+  "coral_direction": 0i,
+  "coral_hang_type_bit": 0b,
+  "dead_bit": 1b
+}{
+  "coral_direction": 0i,
+  "coral_hang_type_bit": 1b,
+  "dead_bit": 1b
+}{
+  "coral_direction": 1i,
+  "coral_hang_type_bit": 0b,
+  "dead_bit": 0b
+}{
+  "coral_direction": 1i,
+  "coral_hang_type_bit": 1b,
+  "dead_bit": 0b
+}{
+  "coral_direction": 1i,
+  "coral_hang_type_bit": 0b,
+  "dead_bit": 1b
+}{
+  "coral_direction": 1i,
+  "coral_hang_type_bit": 1b,
+  "dead_bit": 1b
+}{
+  "coral_direction": 2i,
+  "coral_hang_type_bit": 0b,
+  "dead_bit": 0b
+}{
+  "coral_direction": 2i,
+  "coral_hang_type_bit": 1b,
+  "dead_bit": 0b
+}{
+  "coral_direction": 2i,
+  "coral_hang_type_bit": 0b,
+  "dead_bit": 1b
+}{
+  "coral_direction": 2i,
+  "coral_hang_type_bit": 1b,
+  "dead_bit": 1b
+}{
+  "coral_direction": 3i,
+  "coral_hang_type_bit": 0b,
+  "dead_bit": 0b
+}{
+  "coral_direction": 3i,
+  "coral_hang_type_bit": 1b,
+  "dead_bit": 0b
+}{
+  "coral_direction": 3i,
+  "coral_hang_type_bit": 0b,
+  "dead_bit": 1b
+}{
+  "coral_direction": 3i,
+  "coral_hang_type_bit": 1b,
+  "dead_bit": 1b
+}

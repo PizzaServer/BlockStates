@@ -1,0 +1,25 @@
+{
+  "direction": 0i,
+  "upper_block_bit": 0b
+}{
+  "direction": 0i,
+  "upper_block_bit": 1b
+}{
+  "direction": 1i,
+  "upper_block_bit": 0b
+}{
+  "direction": 1i,
+  "upper_block_bit": 1b
+}{
+  "direction": 2i,
+  "upper_block_bit": 0b
+}{
+  "direction": 2i,
+  "upper_block_bit": 1b
+}{
+  "direction": 3i,
+  "upper_block_bit": 0b
+}{
+  "direction": 3i,
+  "upper_block_bit": 1b
+}

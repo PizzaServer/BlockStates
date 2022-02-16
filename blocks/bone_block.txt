@@ -1,0 +1,37 @@
+{
+  "deprecated": 0i,
+  "pillar_axis": "y"
+}{
+  "deprecated": 1i,
+  "pillar_axis": "y"
+}{
+  "deprecated": 2i,
+  "pillar_axis": "y"
+}{
+  "deprecated": 3i,
+  "pillar_axis": "y"
+}{
+  "deprecated": 0i,
+  "pillar_axis": "x"
+}{
+  "deprecated": 1i,
+  "pillar_axis": "x"
+}{
+  "deprecated": 2i,
+  "pillar_axis": "x"
+}{
+  "deprecated": 3i,
+  "pillar_axis": "x"
+}{
+  "deprecated": 0i,
+  "pillar_axis": "z"
+}{
+  "deprecated": 1i,
+  "pillar_axis": "z"
+}{
+  "deprecated": 2i,
+  "pillar_axis": "z"
+}{
+  "deprecated": 3i,
+  "pillar_axis": "z"
+}

@@ -1,0 +1,31 @@
+{
+  "coral_color": "blue",
+  "dead_bit": 0b
+}{
+  "coral_color": "pink",
+  "dead_bit": 0b
+}{
+  "coral_color": "purple",
+  "dead_bit": 0b
+}{
+  "coral_color": "red",
+  "dead_bit": 0b
+}{
+  "coral_color": "yellow",
+  "dead_bit": 0b
+}{
+  "coral_color": "blue",
+  "dead_bit": 1b
+}{
+  "coral_color": "pink",
+  "dead_bit": 1b
+}{
+  "coral_color": "purple",
+  "dead_bit": 1b
+}{
+  "coral_color": "red",
+  "dead_bit": 1b
+}{
+  "coral_color": "yellow",
+  "dead_bit": 1b
+}

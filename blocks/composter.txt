@@ -1,0 +1,19 @@
+{
+  "composter_fill_level": 0i
+}{
+  "composter_fill_level": 1i
+}{
+  "composter_fill_level": 2i
+}{
+  "composter_fill_level": 3i
+}{
+  "composter_fill_level": 4i
+}{
+  "composter_fill_level": 5i
+}{
+  "composter_fill_level": 6i
+}{
+  "composter_fill_level": 7i
+}{
+  "composter_fill_level": 8i
+}

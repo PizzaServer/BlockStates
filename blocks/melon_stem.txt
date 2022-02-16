@@ -1,0 +1,145 @@
+{
+  "facing_direction": 0i,
+  "growth": 0i
+}{
+  "facing_direction": 0i,
+  "growth": 1i
+}{
+  "facing_direction": 0i,
+  "growth": 2i
+}{
+  "facing_direction": 0i,
+  "growth": 3i
+}{
+  "facing_direction": 0i,
+  "growth": 4i
+}{
+  "facing_direction": 0i,
+  "growth": 5i
+}{
+  "facing_direction": 0i,
+  "growth": 6i
+}{
+  "facing_direction": 0i,
+  "growth": 7i
+}{
+  "facing_direction": 1i,
+  "growth": 0i
+}{
+  "facing_direction": 1i,
+  "growth": 1i
+}{
+  "facing_direction": 1i,
+  "growth": 2i
+}{
+  "facing_direction": 1i,
+  "growth": 3i
+}{
+  "facing_direction": 1i,
+  "growth": 4i
+}{
+  "facing_direction": 1i,
+  "growth": 5i
+}{
+  "facing_direction": 1i,
+  "growth": 6i
+}{
+  "facing_direction": 1i,
+  "growth": 7i
+}{
+  "facing_direction": 2i,
+  "growth": 0i
+}{
+  "facing_direction": 2i,
+  "growth": 1i
+}{
+  "facing_direction": 2i,
+  "growth": 2i
+}{
+  "facing_direction": 2i,
+  "growth": 3i
+}{
+  "facing_direction": 2i,
+  "growth": 4i
+}{
+  "facing_direction": 2i,
+  "growth": 5i
+}{
+  "facing_direction": 2i,
+  "growth": 6i
+}{
+  "facing_direction": 2i,
+  "growth": 7i
+}{
+  "facing_direction": 3i,
+  "growth": 0i
+}{
+  "facing_direction": 3i,
+  "growth": 1i
+}{
+  "facing_direction": 3i,
+  "growth": 2i
+}{
+  "facing_direction": 3i,
+  "growth": 3i
+}{
+  "facing_direction": 3i,
+  "growth": 4i
+}{
+  "facing_direction": 3i,
+  "growth": 5i
+}{
+  "facing_direction": 3i,
+  "growth": 6i
+}{
+  "facing_direction": 3i,
+  "growth": 7i
+}{
+  "facing_direction": 4i,
+  "growth": 0i
+}{
+  "facing_direction": 4i,
+  "growth": 1i
+}{
+  "facing_direction": 4i,
+  "growth": 2i
+}{
+  "facing_direction": 4i,
+  "growth": 3i
+}{
+  "facing_direction": 4i,
+  "growth": 4i
+}{
+  "facing_direction": 4i,
+  "growth": 5i
+}{
+  "facing_direction": 4i,
+  "growth": 6i
+}{
+  "facing_direction": 4i,
+  "growth": 7i
+}{
+  "facing_direction": 5i,
+  "growth": 0i
+}{
+  "facing_direction": 5i,
+  "growth": 1i
+}{
+  "facing_direction": 5i,
+  "growth": 2i
+}{
+  "facing_direction": 5i,
+  "growth": 3i
+}{
+  "facing_direction": 5i,
+  "growth": 4i
+}{
+  "facing_direction": 5i,
+  "growth": 5i
+}{
+  "facing_direction": 5i,
+  "growth": 6i
+}{
+  "facing_direction": 5i,
+  "growth": 7i
+}

@@ -1,0 +1,11 @@
+{
+  "stone_brick_type": "default"
+}{
+  "stone_brick_type": "mossy"
+}{
+  "stone_brick_type": "cracked"
+}{
+  "stone_brick_type": "chiseled"
+}{
+  "stone_brick_type": "smooth"
+}

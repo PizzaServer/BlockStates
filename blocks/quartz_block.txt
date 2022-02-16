@@ -1,0 +1,37 @@
+{
+  "chisel_type": "default",
+  "pillar_axis": "y"
+}{
+  "chisel_type": "chiseled",
+  "pillar_axis": "y"
+}{
+  "chisel_type": "lines",
+  "pillar_axis": "y"
+}{
+  "chisel_type": "smooth",
+  "pillar_axis": "y"
+}{
+  "chisel_type": "default",
+  "pillar_axis": "x"
+}{
+  "chisel_type": "chiseled",
+  "pillar_axis": "x"
+}{
+  "chisel_type": "lines",
+  "pillar_axis": "x"
+}{
+  "chisel_type": "smooth",
+  "pillar_axis": "x"
+}{
+  "chisel_type": "default",
+  "pillar_axis": "z"
+}{
+  "chisel_type": "chiseled",
+  "pillar_axis": "z"
+}{
+  "chisel_type": "lines",
+  "pillar_axis": "z"
+}{
+  "chisel_type": "smooth",
+  "pillar_axis": "z"
+}

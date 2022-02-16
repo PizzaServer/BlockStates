@@ -1,0 +1,49 @@
+{
+  "direction": 0i,
+  "repeater_delay": 0i
+}{
+  "direction": 1i,
+  "repeater_delay": 0i
+}{
+  "direction": 2i,
+  "repeater_delay": 0i
+}{
+  "direction": 3i,
+  "repeater_delay": 0i
+}{
+  "direction": 0i,
+  "repeater_delay": 1i
+}{
+  "direction": 1i,
+  "repeater_delay": 1i
+}{
+  "direction": 2i,
+  "repeater_delay": 1i
+}{
+  "direction": 3i,
+  "repeater_delay": 1i
+}{
+  "direction": 0i,
+  "repeater_delay": 2i
+}{
+  "direction": 1i,
+  "repeater_delay": 2i
+}{
+  "direction": 2i,
+  "repeater_delay": 2i
+}{
+  "direction": 3i,
+  "repeater_delay": 2i
+}{
+  "direction": 0i,
+  "repeater_delay": 3i
+}{
+  "direction": 1i,
+  "repeater_delay": 3i
+}{
+  "direction": 2i,
+  "repeater_delay": 3i
+}{
+  "direction": 3i,
+  "repeater_delay": 3i
+}

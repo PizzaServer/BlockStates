@@ -1,0 +1,37 @@
+{
+  "age_bit": 0b,
+  "sapling_type": "oak"
+}{
+  "age_bit": 1b,
+  "sapling_type": "oak"
+}{
+  "age_bit": 0b,
+  "sapling_type": "spruce"
+}{
+  "age_bit": 1b,
+  "sapling_type": "spruce"
+}{
+  "age_bit": 0b,
+  "sapling_type": "birch"
+}{
+  "age_bit": 1b,
+  "sapling_type": "birch"
+}{
+  "age_bit": 0b,
+  "sapling_type": "jungle"
+}{
+  "age_bit": 1b,
+  "sapling_type": "jungle"
+}{
+  "age_bit": 0b,
+  "sapling_type": "acacia"
+}{
+  "age_bit": 1b,
+  "sapling_type": "acacia"
+}{
+  "age_bit": 0b,
+  "sapling_type": "dark_oak"
+}{
+  "age_bit": 1b,
+  "sapling_type": "dark_oak"
+}

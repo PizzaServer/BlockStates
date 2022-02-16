@@ -1,0 +1,13 @@
+{
+  "structure_block_type": "data"
+}{
+  "structure_block_type": "save"
+}{
+  "structure_block_type": "load"
+}{
+  "structure_block_type": "corner"
+}{
+  "structure_block_type": "invalid"
+}{
+  "structure_block_type": "export"
+}

@@ -1,0 +1,49 @@
+{
+  "attachment": "standing",
+  "direction": 0i
+}{
+  "attachment": "standing",
+  "direction": 1i
+}{
+  "attachment": "standing",
+  "direction": 2i
+}{
+  "attachment": "standing",
+  "direction": 3i
+}{
+  "attachment": "hanging",
+  "direction": 0i
+}{
+  "attachment": "hanging",
+  "direction": 1i
+}{
+  "attachment": "hanging",
+  "direction": 2i
+}{
+  "attachment": "hanging",
+  "direction": 3i
+}{
+  "attachment": "side",
+  "direction": 0i
+}{
+  "attachment": "side",
+  "direction": 1i
+}{
+  "attachment": "side",
+  "direction": 2i
+}{
+  "attachment": "side",
+  "direction": 3i
+}{
+  "attachment": "multiple",
+  "direction": 0i
+}{
+  "attachment": "multiple",
+  "direction": 1i
+}{
+  "attachment": "multiple",
+  "direction": 2i
+}{
+  "attachment": "multiple",
+  "direction": 3i
+}

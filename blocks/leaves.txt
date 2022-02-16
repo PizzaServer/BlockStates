@@ -1,0 +1,65 @@
+{
+  "old_leaf_type": "oak",
+  "persistent_bit": 0b,
+  "update_bit": 0b
+}{
+  "old_leaf_type": "spruce",
+  "persistent_bit": 0b,
+  "update_bit": 0b
+}{
+  "old_leaf_type": "birch",
+  "persistent_bit": 0b,
+  "update_bit": 0b
+}{
+  "old_leaf_type": "jungle",
+  "persistent_bit": 0b,
+  "update_bit": 0b
+}{
+  "old_leaf_type": "oak",
+  "persistent_bit": 0b,
+  "update_bit": 1b
+}{
+  "old_leaf_type": "spruce",
+  "persistent_bit": 0b,
+  "update_bit": 1b
+}{
+  "old_leaf_type": "birch",
+  "persistent_bit": 0b,
+  "update_bit": 1b
+}{
+  "old_leaf_type": "jungle",
+  "persistent_bit": 0b,
+  "update_bit": 1b
+}{
+  "old_leaf_type": "oak",
+  "persistent_bit": 1b,
+  "update_bit": 0b
+}{
+  "old_leaf_type": "spruce",
+  "persistent_bit": 1b,
+  "update_bit": 0b
+}{
+  "old_leaf_type": "birch",
+  "persistent_bit": 1b,
+  "update_bit": 0b
+}{
+  "old_leaf_type": "jungle",
+  "persistent_bit": 1b,
+  "update_bit": 0b
+}{
+  "old_leaf_type": "oak",
+  "persistent_bit": 1b,
+  "update_bit": 1b
+}{
+  "old_leaf_type": "spruce",
+  "persistent_bit": 1b,
+  "update_bit": 1b
+}{
+  "old_leaf_type": "birch",
+  "persistent_bit": 1b,
+  "update_bit": 1b
+}{
+  "old_leaf_type": "jungle",
+  "persistent_bit": 1b,
+  "update_bit": 1b
+}

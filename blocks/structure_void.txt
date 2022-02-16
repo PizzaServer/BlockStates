@@ -1,0 +1,5 @@
+{
+  "structure_void_type": "void"
+}{
+  "structure_void_type": "air"
+}

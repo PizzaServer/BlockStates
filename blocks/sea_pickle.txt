@@ -1,0 +1,25 @@
+{
+  "cluster_count": 0i,
+  "dead_bit": 0b
+}{
+  "cluster_count": 1i,
+  "dead_bit": 0b
+}{
+  "cluster_count": 2i,
+  "dead_bit": 0b
+}{
+  "cluster_count": 3i,
+  "dead_bit": 0b
+}{
+  "cluster_count": 0i,
+  "dead_bit": 1b
+}{
+  "cluster_count": 1i,
+  "dead_bit": 1b
+}{
+  "cluster_count": 2i,
+  "dead_bit": 1b
+}{
+  "cluster_count": 3i,
+  "dead_bit": 1b
+}

@@ -1,0 +1,49 @@
+{
+  "stability": 0i,
+  "stability_check": 0b
+}{
+  "stability": 1i,
+  "stability_check": 0b
+}{
+  "stability": 2i,
+  "stability_check": 0b
+}{
+  "stability": 3i,
+  "stability_check": 0b
+}{
+  "stability": 4i,
+  "stability_check": 0b
+}{
+  "stability": 5i,
+  "stability_check": 0b
+}{
+  "stability": 6i,
+  "stability_check": 0b
+}{
+  "stability": 7i,
+  "stability_check": 0b
+}{
+  "stability": 0i,
+  "stability_check": 1b
+}{
+  "stability": 1i,
+  "stability_check": 1b
+}{
+  "stability": 2i,
+  "stability_check": 1b
+}{
+  "stability": 3i,
+  "stability_check": 1b
+}{
+  "stability": 4i,
+  "stability_check": 1b
+}{
+  "stability": 5i,
+  "stability_check": 1b
+}{
+  "stability": 6i,
+  "stability_check": 1b
+}{
+  "stability": 7i,
+  "stability_check": 1b
+}

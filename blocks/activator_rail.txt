@@ -1,0 +1,37 @@
+{
+  "rail_data_bit": 0b,
+  "rail_direction": 0i
+}{
+  "rail_data_bit": 0b,
+  "rail_direction": 1i
+}{
+  "rail_data_bit": 0b,
+  "rail_direction": 2i
+}{
+  "rail_data_bit": 0b,
+  "rail_direction": 3i
+}{
+  "rail_data_bit": 0b,
+  "rail_direction": 4i
+}{
+  "rail_data_bit": 0b,
+  "rail_direction": 5i
+}{
+  "rail_data_bit": 1b,
+  "rail_direction": 0i
+}{
+  "rail_data_bit": 1b,
+  "rail_direction": 1i
+}{
+  "rail_data_bit": 1b,
+  "rail_direction": 2i
+}{
+  "rail_data_bit": 1b,
+  "rail_direction": 3i
+}{
+  "rail_data_bit": 1b,
+  "rail_direction": 4i
+}{
+  "rail_data_bit": 1b,
+  "rail_direction": 5i
+}

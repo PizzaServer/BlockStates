@@ -1,0 +1,161 @@
+{
+  "direction": 0i,
+  "door_hinge_bit": 0b,
+  "open_bit": 0b,
+  "upper_block_bit": 0b
+}{
+  "direction": 1i,
+  "door_hinge_bit": 0b,
+  "open_bit": 0b,
+  "upper_block_bit": 0b
+}{
+  "direction": 2i,
+  "door_hinge_bit": 0b,
+  "open_bit": 0b,
+  "upper_block_bit": 0b
+}{
+  "direction": 3i,
+  "door_hinge_bit": 0b,
+  "open_bit": 0b,
+  "upper_block_bit": 0b
+}{
+  "direction": 0i,
+  "door_hinge_bit": 0b,
+  "open_bit": 1b,
+  "upper_block_bit": 0b
+}{
+  "direction": 1i,
+  "door_hinge_bit": 0b,
+  "open_bit": 1b,
+  "upper_block_bit": 0b
+}{
+  "direction": 2i,
+  "door_hinge_bit": 0b,
+  "open_bit": 1b,
+  "upper_block_bit": 0b
+}{
+  "direction": 3i,
+  "door_hinge_bit": 0b,
+  "open_bit": 1b,
+  "upper_block_bit": 0b
+}{
+  "direction": 0i,
+  "door_hinge_bit": 0b,
+  "open_bit": 0b,
+  "upper_block_bit": 1b
+}{
+  "direction": 1i,
+  "door_hinge_bit": 0b,
+  "open_bit": 0b,
+  "upper_block_bit": 1b
+}{
+  "direction": 2i,
+  "door_hinge_bit": 0b,
+  "open_bit": 0b,
+  "upper_block_bit": 1b
+}{
+  "direction": 3i,
+  "door_hinge_bit": 0b,
+  "open_bit": 0b,
+  "upper_block_bit": 1b
+}{
+  "direction": 0i,
+  "door_hinge_bit": 0b,
+  "open_bit": 1b,
+  "upper_block_bit": 1b
+}{
+  "direction": 1i,
+  "door_hinge_bit": 0b,
+  "open_bit": 1b,
+  "upper_block_bit": 1b
+}{
+  "direction": 2i,
+  "door_hinge_bit": 0b,
+  "open_bit": 1b,
+  "upper_block_bit": 1b
+}{
+  "direction": 3i,
+  "door_hinge_bit": 0b,
+  "open_bit": 1b,
+  "upper_block_bit": 1b
+}{
+  "direction": 0i,
+  "door_hinge_bit": 1b,
+  "open_bit": 0b,
+  "upper_block_bit": 0b
+}{
+  "direction": 1i,
+  "door_hinge_bit": 1b,
+  "open_bit": 0b,
+  "upper_block_bit": 0b
+}{
+  "direction": 2i,
+  "door_hinge_bit": 1b,
+  "open_bit": 0b,
+  "upper_block_bit": 0b
+}{
+  "direction": 3i,
+  "door_hinge_bit": 1b,
+  "open_bit": 0b,
+  "upper_block_bit": 0b
+}{
+  "direction": 0i,
+  "door_hinge_bit": 1b,
+  "open_bit": 1b,
+  "upper_block_bit": 0b
+}{
+  "direction": 1i,
+  "door_hinge_bit": 1b,
+  "open_bit": 1b,
+  "upper_block_bit": 0b
+}{
+  "direction": 2i,
+  "door_hinge_bit": 1b,
+  "open_bit": 1b,
+  "upper_block_bit": 0b
+}{
+  "direction": 3i,
+  "door_hinge_bit": 1b,
+  "open_bit": 1b,
+  "upper_block_bit": 0b
+}{
+  "direction": 0i,
+  "door_hinge_bit": 1b,
+  "open_bit": 0b,
+  "upper_block_bit": 1b
+}{
+  "direction": 1i,
+  "door_hinge_bit": 1b,
+  "open_bit": 0b,
+  "upper_block_bit": 1b
+}{
+  "direction": 2i,
+  "door_hinge_bit": 1b,
+  "open_bit": 0b,
+  "upper_block_bit": 1b
+}{
+  "direction": 3i,
+  "door_hinge_bit": 1b,
+  "open_bit": 0b,
+  "upper_block_bit": 1b
+}{
+  "direction": 0i,
+  "door_hinge_bit": 1b,
+  "open_bit": 1b,
+  "upper_block_bit": 1b
+}{
+  "direction": 1i,
+  "door_hinge_bit": 1b,
+  "open_bit": 1b,
+  "upper_block_bit": 1b
+}{
+  "direction": 2i,
+  "door_hinge_bit": 1b,
+  "open_bit": 1b,
+  "upper_block_bit": 1b
+}{
+  "direction": 3i,
+  "door_hinge_bit": 1b,
+  "open_bit": 1b,
+  "upper_block_bit": 1b
+}

@@ -1,0 +1,13 @@
+{
+  "monster_egg_stone_type": "stone"
+}{
+  "monster_egg_stone_type": "cobblestone"
+}{
+  "monster_egg_stone_type": "stone_brick"
+}{
+  "monster_egg_stone_type": "mossy_stone_brick"
+}{
+  "monster_egg_stone_type": "cracked_stone_brick"
+}{
+  "monster_egg_stone_type": "chiseled_stone_brick"
+}

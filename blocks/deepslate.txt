@@ -1,0 +1,7 @@
+{
+  "pillar_axis": "y"
+}{
+  "pillar_axis": "x"
+}{
+  "pillar_axis": "z"
+}

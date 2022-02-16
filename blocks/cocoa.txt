@@ -1,0 +1,37 @@
+{
+  "age": 0i,
+  "direction": 0i
+}{
+  "age": 0i,
+  "direction": 1i
+}{
+  "age": 0i,
+  "direction": 2i
+}{
+  "age": 0i,
+  "direction": 3i
+}{
+  "age": 1i,
+  "direction": 0i
+}{
+  "age": 1i,
+  "direction": 1i
+}{
+  "age": 1i,
+  "direction": 2i
+}{
+  "age": 1i,
+  "direction": 3i
+}{
+  "age": 2i,
+  "direction": 0i
+}{
+  "age": 2i,
+  "direction": 1i
+}{
+  "age": 2i,
+  "direction": 2i
+}{
+  "age": 2i,
+  "direction": 3i
+}

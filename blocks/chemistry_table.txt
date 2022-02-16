@@ -1,0 +1,49 @@
+{
+  "chemistry_table_type": "compound_creator",
+  "direction": 0i
+}{
+  "chemistry_table_type": "compound_creator",
+  "direction": 1i
+}{
+  "chemistry_table_type": "compound_creator",
+  "direction": 2i
+}{
+  "chemistry_table_type": "compound_creator",
+  "direction": 3i
+}{
+  "chemistry_table_type": "material_reducer",
+  "direction": 0i
+}{
+  "chemistry_table_type": "material_reducer",
+  "direction": 1i
+}{
+  "chemistry_table_type": "material_reducer",
+  "direction": 2i
+}{
+  "chemistry_table_type": "material_reducer",
+  "direction": 3i
+}{
+  "chemistry_table_type": "element_constructor",
+  "direction": 0i
+}{
+  "chemistry_table_type": "element_constructor",
+  "direction": 1i
+}{
+  "chemistry_table_type": "element_constructor",
+  "direction": 2i
+}{
+  "chemistry_table_type": "element_constructor",
+  "direction": 3i
+}{
+  "chemistry_table_type": "lab_table",
+  "direction": 0i
+}{
+  "chemistry_table_type": "lab_table",
+  "direction": 1i
+}{
+  "chemistry_table_type": "lab_table",
+  "direction": 2i
+}{
+  "chemistry_table_type": "lab_table",
+  "direction": 3i
+}

@@ -1,0 +1,13 @@
+{
+  "allow_underwater_bit": 0b,
+  "explode_bit": 0b
+}{
+  "allow_underwater_bit": 0b,
+  "explode_bit": 1b
+}{
+  "allow_underwater_bit": 1b,
+  "explode_bit": 0b
+}{
+  "allow_underwater_bit": 1b,
+  "explode_bit": 1b
+}

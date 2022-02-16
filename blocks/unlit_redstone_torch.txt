@@ -1,0 +1,13 @@
+{
+  "torch_facing_direction": "unknown"
+}{
+  "torch_facing_direction": "west"
+}{
+  "torch_facing_direction": "east"
+}{
+  "torch_facing_direction": "north"
+}{
+  "torch_facing_direction": "south"
+}{
+  "torch_facing_direction": "top"
+}

@@ -1,0 +1,37 @@
+{
+  "cracked_state": "no_cracks",
+  "turtle_egg_count": "one_egg"
+}{
+  "cracked_state": "no_cracks",
+  "turtle_egg_count": "two_egg"
+}{
+  "cracked_state": "no_cracks",
+  "turtle_egg_count": "three_egg"
+}{
+  "cracked_state": "no_cracks",
+  "turtle_egg_count": "four_egg"
+}{
+  "cracked_state": "cracked",
+  "turtle_egg_count": "one_egg"
+}{
+  "cracked_state": "cracked",
+  "turtle_egg_count": "two_egg"
+}{
+  "cracked_state": "cracked",
+  "turtle_egg_count": "three_egg"
+}{
+  "cracked_state": "cracked",
+  "turtle_egg_count": "four_egg"
+}{
+  "cracked_state": "max_cracked",
+  "turtle_egg_count": "one_egg"
+}{
+  "cracked_state": "max_cracked",
+  "turtle_egg_count": "two_egg"
+}{
+  "cracked_state": "max_cracked",
+  "turtle_egg_count": "three_egg"
+}{
+  "cracked_state": "max_cracked",
+  "turtle_egg_count": "four_egg"
+}

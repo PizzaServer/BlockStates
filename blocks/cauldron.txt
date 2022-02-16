@@ -1,0 +1,22 @@
+{
+  "cauldron_liquid": "powder_snow",
+  "fill_level": 0i
+}{
+  "cauldron_liquid": "powder_snow",
+  "fill_level": 1i
+}{
+  "cauldron_liquid": "powder_snow",
+  "fill_level": 2i
+}{
+  "cauldron_liquid": "powder_snow",
+  "fill_level": 3i
+}{
+  "cauldron_liquid": "powder_snow",
+  "fill_level": 4i
+}{
+  "cauldron_liquid": "powder_snow",
+  "fill_level": 5i
+}{
+  "cauldron_liquid": "powder_snow",
+  "fill_level": 6i
+}

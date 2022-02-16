@@ -1,0 +1,25 @@
+{
+  "direction": 0i,
+  "end_portal_eye_bit": 0b
+}{
+  "direction": 1i,
+  "end_portal_eye_bit": 0b
+}{
+  "direction": 2i,
+  "end_portal_eye_bit": 0b
+}{
+  "direction": 3i,
+  "end_portal_eye_bit": 0b
+}{
+  "direction": 0i,
+  "end_portal_eye_bit": 1b
+}{
+  "direction": 1i,
+  "end_portal_eye_bit": 1b
+}{
+  "direction": 2i,
+  "end_portal_eye_bit": 1b
+}{
+  "direction": 3i,
+  "end_portal_eye_bit": 1b
+}

@@ -1,0 +1,49 @@
+{
+  "covered_bit": 0b,
+  "height": 0i
+}{
+  "covered_bit": 0b,
+  "height": 1i
+}{
+  "covered_bit": 0b,
+  "height": 2i
+}{
+  "covered_bit": 0b,
+  "height": 3i
+}{
+  "covered_bit": 0b,
+  "height": 4i
+}{
+  "covered_bit": 0b,
+  "height": 5i
+}{
+  "covered_bit": 0b,
+  "height": 6i
+}{
+  "covered_bit": 0b,
+  "height": 7i
+}{
+  "covered_bit": 1b,
+  "height": 0i
+}{
+  "covered_bit": 1b,
+  "height": 1i
+}{
+  "covered_bit": 1b,
+  "height": 2i
+}{
+  "covered_bit": 1b,
+  "height": 3i
+}{
+  "covered_bit": 1b,
+  "height": 4i
+}{
+  "covered_bit": 1b,
+  "height": 5i
+}{
+  "covered_bit": 1b,
+  "height": 6i
+}{
+  "covered_bit": 1b,
+  "height": 7i
+}

@@ -1,0 +1,37 @@
+{
+  "facing_direction": 0i,
+  "no_drop_bit": 0b
+}{
+  "facing_direction": 1i,
+  "no_drop_bit": 0b
+}{
+  "facing_direction": 2i,
+  "no_drop_bit": 0b
+}{
+  "facing_direction": 3i,
+  "no_drop_bit": 0b
+}{
+  "facing_direction": 4i,
+  "no_drop_bit": 0b
+}{
+  "facing_direction": 5i,
+  "no_drop_bit": 0b
+}{
+  "facing_direction": 0i,
+  "no_drop_bit": 1b
+}{
+  "facing_direction": 1i,
+  "no_drop_bit": 1b
+}{
+  "facing_direction": 2i,
+  "no_drop_bit": 1b
+}{
+  "facing_direction": 3i,
+  "no_drop_bit": 1b
+}{
+  "facing_direction": 4i,
+  "no_drop_bit": 1b
+}{
+  "facing_direction": 5i,
+  "no_drop_bit": 1b
+}

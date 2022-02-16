@@ -1,0 +1,33 @@
+{
+  "redstone_signal": 0i
+}{
+  "redstone_signal": 1i
+}{
+  "redstone_signal": 2i
+}{
+  "redstone_signal": 3i
+}{
+  "redstone_signal": 4i
+}{
+  "redstone_signal": 5i
+}{
+  "redstone_signal": 6i
+}{
+  "redstone_signal": 7i
+}{
+  "redstone_signal": 8i
+}{
+  "redstone_signal": 9i
+}{
+  "redstone_signal": 10i
+}{
+  "redstone_signal": 11i
+}{
+  "redstone_signal": 12i
+}{
+  "redstone_signal": 13i
+}{
+  "redstone_signal": 14i
+}{
+  "redstone_signal": 15i
+}

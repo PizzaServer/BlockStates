@@ -1,0 +1,33 @@
+{
+  "ground_sign_direction": 0i
+}{
+  "ground_sign_direction": 1i
+}{
+  "ground_sign_direction": 2i
+}{
+  "ground_sign_direction": 3i
+}{
+  "ground_sign_direction": 4i
+}{
+  "ground_sign_direction": 5i
+}{
+  "ground_sign_direction": 6i
+}{
+  "ground_sign_direction": 7i
+}{
+  "ground_sign_direction": 8i
+}{
+  "ground_sign_direction": 9i
+}{
+  "ground_sign_direction": 10i
+}{
+  "ground_sign_direction": 11i
+}{
+  "ground_sign_direction": 12i
+}{
+  "ground_sign_direction": 13i
+}{
+  "ground_sign_direction": 14i
+}{
+  "ground_sign_direction": 15i
+}

@@ -1,0 +1,37 @@
+{
+  "facing_direction": 0i,
+  "open_bit": 0b
+}{
+  "facing_direction": 1i,
+  "open_bit": 0b
+}{
+  "facing_direction": 2i,
+  "open_bit": 0b
+}{
+  "facing_direction": 3i,
+  "open_bit": 0b
+}{
+  "facing_direction": 4i,
+  "open_bit": 0b
+}{
+  "facing_direction": 5i,
+  "open_bit": 0b
+}{
+  "facing_direction": 0i,
+  "open_bit": 1b
+}{
+  "facing_direction": 1i,
+  "open_bit": 1b
+}{
+  "facing_direction": 2i,
+  "open_bit": 1b
+}{
+  "facing_direction": 3i,
+  "open_bit": 1b
+}{
+  "facing_direction": 4i,
+  "open_bit": 1b
+}{
+  "facing_direction": 5i,
+  "open_bit": 1b
+}

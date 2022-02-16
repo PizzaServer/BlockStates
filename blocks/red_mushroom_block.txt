@@ -1,0 +1,33 @@
+{
+  "huge_mushroom_bits": 0i
+}{
+  "huge_mushroom_bits": 1i
+}{
+  "huge_mushroom_bits": 2i
+}{
+  "huge_mushroom_bits": 3i
+}{
+  "huge_mushroom_bits": 4i
+}{
+  "huge_mushroom_bits": 5i
+}{
+  "huge_mushroom_bits": 6i
+}{
+  "huge_mushroom_bits": 7i
+}{
+  "huge_mushroom_bits": 8i
+}{
+  "huge_mushroom_bits": 9i
+}{
+  "huge_mushroom_bits": 10i
+}{
+  "huge_mushroom_bits": 11i
+}{
+  "huge_mushroom_bits": 12i
+}{
+  "huge_mushroom_bits": 13i
+}{
+  "huge_mushroom_bits": 14i
+}{
+  "huge_mushroom_bits": 15i
+}

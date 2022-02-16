@@ -1,0 +1,5 @@
+{
+  "update_bit": 0b
+}{
+  "update_bit": 1b
+}

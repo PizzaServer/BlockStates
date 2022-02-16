@@ -1,0 +1,33 @@
+{
+  "color": "white"
+}{
+  "color": "orange"
+}{
+  "color": "magenta"
+}{
+  "color": "light_blue"
+}{
+  "color": "yellow"
+}{
+  "color": "lime"
+}{
+  "color": "pink"
+}{
+  "color": "gray"
+}{
+  "color": "silver"
+}{
+  "color": "cyan"
+}{
+  "color": "purple"
+}{
+  "color": "blue"
+}{
+  "color": "brown"
+}{
+  "color": "green"
+}{
+  "color": "red"
+}{
+  "color": "black"
+}

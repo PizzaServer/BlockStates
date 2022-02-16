@@ -1,0 +1,97 @@
+{
+  "facing_direction": 0i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 1i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 2i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 3i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 4i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 5i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 0i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 1i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 2i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 3i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 4i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 5i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 0b
+}{
+  "facing_direction": 0i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 1b
+}{
+  "facing_direction": 1i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 1b
+}{
+  "facing_direction": 2i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 1b
+}{
+  "facing_direction": 3i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 1b
+}{
+  "facing_direction": 4i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 1b
+}{
+  "facing_direction": 5i,
+  "item_frame_map_bit": 0b,
+  "item_frame_photo_bit": 1b
+}{
+  "facing_direction": 0i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 1b
+}{
+  "facing_direction": 1i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 1b
+}{
+  "facing_direction": 2i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 1b
+}{
+  "facing_direction": 3i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 1b
+}{
+  "facing_direction": 4i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 1b
+}{
+  "facing_direction": 5i,
+  "item_frame_map_bit": 1b,
+  "item_frame_photo_bit": 1b
+}

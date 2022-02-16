@@ -1,0 +1,73 @@
+{
+  "facing_direction": 0i,
+  "rotation": 0i
+}{
+  "facing_direction": 1i,
+  "rotation": 0i
+}{
+  "facing_direction": 2i,
+  "rotation": 0i
+}{
+  "facing_direction": 3i,
+  "rotation": 0i
+}{
+  "facing_direction": 4i,
+  "rotation": 0i
+}{
+  "facing_direction": 5i,
+  "rotation": 0i
+}{
+  "facing_direction": 0i,
+  "rotation": 1i
+}{
+  "facing_direction": 1i,
+  "rotation": 1i
+}{
+  "facing_direction": 2i,
+  "rotation": 1i
+}{
+  "facing_direction": 3i,
+  "rotation": 1i
+}{
+  "facing_direction": 4i,
+  "rotation": 1i
+}{
+  "facing_direction": 5i,
+  "rotation": 1i
+}{
+  "facing_direction": 0i,
+  "rotation": 2i
+}{
+  "facing_direction": 1i,
+  "rotation": 2i
+}{
+  "facing_direction": 2i,
+  "rotation": 2i
+}{
+  "facing_direction": 3i,
+  "rotation": 2i
+}{
+  "facing_direction": 4i,
+  "rotation": 2i
+}{
+  "facing_direction": 5i,
+  "rotation": 2i
+}{
+  "facing_direction": 0i,
+  "rotation": 3i
+}{
+  "facing_direction": 1i,
+  "rotation": 3i
+}{
+  "facing_direction": 2i,
+  "rotation": 3i
+}{
+  "facing_direction": 3i,
+  "rotation": 3i
+}{
+  "facing_direction": 4i,
+  "rotation": 3i
+}{
+  "facing_direction": 5i,
+  "rotation": 3i
+}

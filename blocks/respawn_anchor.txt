@@ -1,0 +1,11 @@
+{
+  "respawn_anchor_charge": 0i
+}{
+  "respawn_anchor_charge": 1i
+}{
+  "respawn_anchor_charge": 2i
+}{
+  "respawn_anchor_charge": 3i
+}{
+  "respawn_anchor_charge": 4i
+}

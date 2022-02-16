@@ -1,0 +1,33 @@
+{
+  "vine_direction_bits": 0i
+}{
+  "vine_direction_bits": 1i
+}{
+  "vine_direction_bits": 2i
+}{
+  "vine_direction_bits": 3i
+}{
+  "vine_direction_bits": 4i
+}{
+  "vine_direction_bits": 5i
+}{
+  "vine_direction_bits": 6i
+}{
+  "vine_direction_bits": 7i
+}{
+  "vine_direction_bits": 8i
+}{
+  "vine_direction_bits": 9i
+}{
+  "vine_direction_bits": 10i
+}{
+  "vine_direction_bits": 11i
+}{
+  "vine_direction_bits": 12i
+}{
+  "vine_direction_bits": 13i
+}{
+  "vine_direction_bits": 14i
+}{
+  "vine_direction_bits": 15i
+}

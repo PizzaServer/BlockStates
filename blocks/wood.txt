@@ -1,0 +1,145 @@
+{
+  "pillar_axis": "y",
+  "stripped_bit": 0b,
+  "wood_type": "oak"
+}{
+  "pillar_axis": "y",
+  "stripped_bit": 0b,
+  "wood_type": "spruce"
+}{
+  "pillar_axis": "y",
+  "stripped_bit": 0b,
+  "wood_type": "birch"
+}{
+  "pillar_axis": "y",
+  "stripped_bit": 0b,
+  "wood_type": "jungle"
+}{
+  "pillar_axis": "y",
+  "stripped_bit": 0b,
+  "wood_type": "acacia"
+}{
+  "pillar_axis": "y",
+  "stripped_bit": 0b,
+  "wood_type": "dark_oak"
+}{
+  "pillar_axis": "y",
+  "stripped_bit": 1b,
+  "wood_type": "oak"
+}{
+  "pillar_axis": "y",
+  "stripped_bit": 1b,
+  "wood_type": "spruce"
+}{
+  "pillar_axis": "y",
+  "stripped_bit": 1b,
+  "wood_type": "birch"
+}{
+  "pillar_axis": "y",
+  "stripped_bit": 1b,
+  "wood_type": "jungle"
+}{
+  "pillar_axis": "y",
+  "stripped_bit": 1b,
+  "wood_type": "acacia"
+}{
+  "pillar_axis": "y",
+  "stripped_bit": 1b,
+  "wood_type": "dark_oak"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 0b,
+  "wood_type": "oak"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 0b,
+  "wood_type": "spruce"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 0b,
+  "wood_type": "birch"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 0b,
+  "wood_type": "jungle"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 0b,
+  "wood_type": "acacia"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 0b,
+  "wood_type": "dark_oak"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 1b,
+  "wood_type": "oak"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 1b,
+  "wood_type": "spruce"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 1b,
+  "wood_type": "birch"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 1b,
+  "wood_type": "jungle"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 1b,
+  "wood_type": "acacia"
+}{
+  "pillar_axis": "x",
+  "stripped_bit": 1b,
+  "wood_type": "dark_oak"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 0b,
+  "wood_type": "oak"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 0b,
+  "wood_type": "spruce"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 0b,
+  "wood_type": "birch"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 0b,
+  "wood_type": "jungle"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 0b,
+  "wood_type": "acacia"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 0b,
+  "wood_type": "dark_oak"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 1b,
+  "wood_type": "oak"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 1b,
+  "wood_type": "spruce"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 1b,
+  "wood_type": "birch"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 1b,
+  "wood_type": "jungle"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 1b,
+  "wood_type": "acacia"
+}{
+  "pillar_axis": "z",
+  "stripped_bit": 1b,
+  "wood_type": "dark_oak"
+}

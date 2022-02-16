@@ -1,0 +1,5 @@
+{
+  "sponge_type": "dry"
+}{
+  "sponge_type": "wet"
+}

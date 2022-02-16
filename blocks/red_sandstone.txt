@@ -1,0 +1,9 @@
+{
+  "sand_stone_type": "default"
+}{
+  "sand_stone_type": "heiroglyphs"
+}{
+  "sand_stone_type": "cut"
+}{
+  "sand_stone_type": "smooth"
+}

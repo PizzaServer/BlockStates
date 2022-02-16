@@ -1,0 +1,53 @@
+{
+  "kelp_age": 0i
+}{
+  "kelp_age": 1i
+}{
+  "kelp_age": 2i
+}{
+  "kelp_age": 3i
+}{
+  "kelp_age": 4i
+}{
+  "kelp_age": 5i
+}{
+  "kelp_age": 6i
+}{
+  "kelp_age": 7i
+}{
+  "kelp_age": 8i
+}{
+  "kelp_age": 9i
+}{
+  "kelp_age": 10i
+}{
+  "kelp_age": 11i
+}{
+  "kelp_age": 12i
+}{
+  "kelp_age": 13i
+}{
+  "kelp_age": 14i
+}{
+  "kelp_age": 15i
+}{
+  "kelp_age": 16i
+}{
+  "kelp_age": 17i
+}{
+  "kelp_age": 18i
+}{
+  "kelp_age": 19i
+}{
+  "kelp_age": 20i
+}{
+  "kelp_age": 21i
+}{
+  "kelp_age": 22i
+}{
+  "kelp_age": 23i
+}{
+  "kelp_age": 24i
+}{
+  "kelp_age": 25i
+}

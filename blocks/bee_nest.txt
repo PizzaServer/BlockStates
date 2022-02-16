@@ -1,0 +1,73 @@
+{
+  "direction": 0i,
+  "honey_level": 0i
+}{
+  "direction": 1i,
+  "honey_level": 0i
+}{
+  "direction": 2i,
+  "honey_level": 0i
+}{
+  "direction": 3i,
+  "honey_level": 0i
+}{
+  "direction": 0i,
+  "honey_level": 1i
+}{
+  "direction": 1i,
+  "honey_level": 1i
+}{
+  "direction": 2i,
+  "honey_level": 1i
+}{
+  "direction": 3i,
+  "honey_level": 1i
+}{
+  "direction": 0i,
+  "honey_level": 2i
+}{
+  "direction": 1i,
+  "honey_level": 2i
+}{
+  "direction": 2i,
+  "honey_level": 2i
+}{
+  "direction": 3i,
+  "honey_level": 2i
+}{
+  "direction": 0i,
+  "honey_level": 3i
+}{
+  "direction": 1i,
+  "honey_level": 3i
+}{
+  "direction": 2i,
+  "honey_level": 3i
+}{
+  "direction": 3i,
+  "honey_level": 3i
+}{
+  "direction": 0i,
+  "honey_level": 4i
+}{
+  "direction": 1i,
+  "honey_level": 4i
+}{
+  "direction": 2i,
+  "honey_level": 4i
+}{
+  "direction": 3i,
+  "honey_level": 4i
+}{
+  "direction": 0i,
+  "honey_level": 5i
+}{
+  "direction": 1i,
+  "honey_level": 5i
+}{
+  "direction": 2i,
+  "honey_level": 5i
+}{
+  "direction": 3i,
+  "honey_level": 5i
+}

@@ -1,0 +1,25 @@
+{
+  "direction": 0i,
+  "powered_bit": 0b
+}{
+  "direction": 1i,
+  "powered_bit": 0b
+}{
+  "direction": 2i,
+  "powered_bit": 0b
+}{
+  "direction": 3i,
+  "powered_bit": 0b
+}{
+  "direction": 0i,
+  "powered_bit": 1b
+}{
+  "direction": 1i,
+  "powered_bit": 1b
+}{
+  "direction": 2i,
+  "powered_bit": 1b
+}{
+  "direction": 3i,
+  "powered_bit": 1b
+}

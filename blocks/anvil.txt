@@ -1,0 +1,49 @@
+{
+  "damage": "undamaged",
+  "direction": 0i
+}{
+  "damage": "undamaged",
+  "direction": 1i
+}{
+  "damage": "undamaged",
+  "direction": 2i
+}{
+  "damage": "undamaged",
+  "direction": 3i
+}{
+  "damage": "slightly_damaged",
+  "direction": 0i
+}{
+  "damage": "slightly_damaged",
+  "direction": 1i
+}{
+  "damage": "slightly_damaged",
+  "direction": 2i
+}{
+  "damage": "slightly_damaged",
+  "direction": 3i
+}{
+  "damage": "very_damaged",
+  "direction": 0i
+}{
+  "damage": "very_damaged",
+  "direction": 1i
+}{
+  "damage": "very_damaged",
+  "direction": 2i
+}{
+  "damage": "very_damaged",
+  "direction": 3i
+}{
+  "damage": "broken",
+  "direction": 0i
+}{
+  "damage": "broken",
+  "direction": 1i
+}{
+  "damage": "broken",
+  "direction": 2i
+}{
+  "damage": "broken",
+  "direction": 3i
+}
